@@ -14,7 +14,7 @@ Here is the bibliography info:
   year={2025},
   volume={63},
   pages={1-16},
-  doi={10.1109/TGRS.2025.02653.R1},
+  doi={10.1109/TGRS.2025.3572242},
   publisher={IEEE}
 }
 ```
