@@ -7,14 +7,14 @@ Here is the bibliography info:
 <br/>
 
 ```jason
-@article{Wang2025Regularized,  
+@article{Wang2025Masked,  
   title={Masked Vision Transformer for Fast Hyperspectral Image Classification},  
   author={Wang, Liguo and Wang, Heng and Yin, Shoulin and Wang, Lifeng},  
   journal={IEEE Transactions on Geoscience and Remote Sensing},  
   year={2025},
   volume={63},
   pages={1-16},
-  doi={},
+  doi={10.1109/TGRS.2025.02653.R1},
   publisher={IEEE}
 }
 ```
