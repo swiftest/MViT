@@ -36,7 +36,7 @@ Vision Transformer (ViT) has been thoroughly explored in hyperspectral image (HS
 Fig1. Overview of the proposed MViT.
 
 
-<img src="figure/tsne_mvit.png" width="200"/>
+<img src="figure/tsne_mvit.png" width="180"/>
 
 Fig13a. 2-D t-SNE visualization of the patterned features learned by MViT from the test samples of the PU dataset.
 
